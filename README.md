@@ -1,8 +1,37 @@
-# 🚀 Data Structure and Algorithm Visualizer  
 
-### 👨‍💻 Developed By  
-## Salar Mokhtari Laleh  
-📧 salarmokhtari0@gmail.com  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="850"/>
+</p>
+
+<h1 align="center">⚡ Data Structure & Algorithm Visualizer ⚡</h1>
+
+<h3 align="center">
+Interactive Visual Learning Platform for Algorithms, Graphs, Trees, and Pathfinding
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Visualization-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interactive-Learning-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Project-orange?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <b>👨‍💻 Developed & Designed By</b>
+</p>
+
+<h2 align="center">Salar Mokhtari Laleh</h2>
+
+<p align="center">
+📧 salarmokhtari0@gmail.com
+</p>
+
+<p align="center">
+  🎓 Computer Science • 📊 Algorithm Visualization • 🤖 AI & Reinforcement Learning
+</p>
 
 ---
 
